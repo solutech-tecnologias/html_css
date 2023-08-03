@@ -1,0 +1,19 @@
+/*Alterar a estrutura ao passar o mouse*/
+#box{
+    background-color: rgb(60, 174, 245);
+    width: 200px;
+    height: 200px;
+
+
+}
+
+#box:hover{
+background-color: chocolate;
+border-radius: 50%;
+}
+
+h1{
+    position: relative;
+    text-align: center;
+    padding: 75px 0px 0px 0px;
+}
